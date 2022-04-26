@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-test\\zywave-test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-api\\zywave-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-api\\zywave-api.csproj",
+        "projectName": "zywave-api",
+        "projectPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-api\\zywave-api.csproj",
+        "packagesPath": "C:\\Users\\jordani.rozon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordani.rozon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.ehana.com/nuget": {},
+          "https://pkgs.dev.azure.com/ehana/9ed15834-79b4-49f6-8452-fe6e632b209c/_packaging/eHana/nuget/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\zywave-data.csproj": {
+                "projectPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\zywave-data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\zywave-data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\zywave-data.csproj",
+        "projectName": "zywave-data",
+        "projectPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\zywave-data.csproj",
+        "packagesPath": "C:\\Users\\jordani.rozon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordani.rozon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.ehana.com/nuget": {},
+          "https://pkgs.dev.azure.com/ehana/9ed15834-79b4-49f6-8452-fe6e632b209c/_packaging/eHana/nuget/v2": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-test\\zywave-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-test\\zywave-test.csproj",
+        "projectName": "zywave-test",
+        "projectPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-test\\zywave-test.csproj",
+        "packagesPath": "C:\\Users\\jordani.rozon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordani.rozon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.ehana.com/nuget": {},
+          "https://pkgs.dev.azure.com/ehana/9ed15834-79b4-49f6-8452-fe6e632b209c/_packaging/eHana/nuget/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-api\\zywave-api.csproj": {
+                "projectPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-api\\zywave-api.csproj"
+              },
+              "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\zywave-data.csproj": {
+                "projectPath": "C:\\Users\\jordani.rozon\\Desktop\\Projects\\Zywave\\zywave-data\\zywave-data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

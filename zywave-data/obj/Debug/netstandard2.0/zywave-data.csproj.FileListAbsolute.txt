@@ -1,0 +1,9 @@
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\bin\Debug\netstandard2.0\zywave-data.deps.json
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\bin\Debug\netstandard2.0\zywave-data.dll
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\bin\Debug\netstandard2.0\zywave-data.pdb
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\obj\Debug\netstandard2.0\zywave-data.csprojAssemblyReference.cache
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\obj\Debug\netstandard2.0\zywave-data.AssemblyInfoInputs.cache
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\obj\Debug\netstandard2.0\zywave-data.AssemblyInfo.cs
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\obj\Debug\netstandard2.0\zywave-data.csproj.CoreCompileInputs.cache
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\obj\Debug\netstandard2.0\zywave-data.dll
+C:\Users\jordani.rozon\Desktop\Projects\Zywave\zywave-data\obj\Debug\netstandard2.0\zywave-data.pdb
